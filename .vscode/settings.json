@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "C:\\Users\\maitl\\.conda\\envs\\magenta-windows\\python.exe"
+}
